@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\bin\Debug\net6.0\Zadacha50.exe
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\bin\Debug\net6.0\Zadacha50.deps.json
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\bin\Debug\net6.0\Zadacha50.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\bin\Debug\net6.0\Zadacha50.dll
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\bin\Debug\net6.0\Zadacha50.pdb
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.dll
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\refint\Zadacha50.dll
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.pdb
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\Zadacha50.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha50\obj\Debug\net6.0\ref\Zadacha50.dll
