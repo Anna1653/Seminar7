@@ -1,0 +1,15 @@
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.csproj.AssemblyReference.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.AssemblyInfoInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.AssemblyInfo.cs
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\bin\Debug\net6.0\Zadacha47.exe
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\bin\Debug\net6.0\Zadacha47.deps.json
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\bin\Debug\net6.0\Zadacha47.runtimeconfig.json
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\bin\Debug\net6.0\Zadacha47.dll
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\bin\Debug\net6.0\Zadacha47.pdb
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.dll
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\refint\Zadacha47.dll
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.pdb
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\Zadacha47.genruntimeconfig.cache
+D:\УЧЕБА\Языки программирования\Seminar7\Zadacha47\obj\Debug\net6.0\ref\Zadacha47.dll
